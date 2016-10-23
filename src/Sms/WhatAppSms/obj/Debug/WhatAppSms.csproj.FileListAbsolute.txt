@@ -1,0 +1,16 @@
+E:\Projects\Utilities\src\Sms\bin\Debug\WhatAppSms.exe.config
+E:\Projects\Utilities\src\Sms\bin\Debug\WhatAppSms.exe
+E:\Projects\Utilities\src\Sms\bin\Debug\WhatAppSms.pdb
+E:\Projects\Utilities\src\Sms\obj\Debug\WhatAppSms.csprojResolveAssemblyReference.cache
+E:\Projects\Utilities\src\Sms\obj\Debug\WhatAppSms.Properties.Resources.resources
+E:\Projects\Utilities\src\Sms\obj\Debug\WhatAppSms.csproj.GenerateResource.Cache
+E:\Projects\Utilities\src\Sms\obj\Debug\WhatAppSms.exe
+E:\Projects\Utilities\src\Sms\obj\Debug\WhatAppSms.pdb
+E:\Projects\Utilities\src\Sms\WhatAppSms\bin\Debug\WhatAppSms.exe.config
+E:\Projects\Utilities\src\Sms\WhatAppSms\obj\Debug\WhatAppSms.exe
+E:\Projects\Utilities\src\Sms\WhatAppSms\obj\Debug\WhatAppSms.pdb
+E:\Projects\Utilities\src\Sms\WhatAppSms\bin\Debug\WhatAppSms.exe
+E:\Projects\Utilities\src\Sms\WhatAppSms\bin\Debug\WhatAppSms.pdb
+E:\Projects\Utilities\src\Sms\WhatAppSms\obj\Debug\WhatAppSms.csprojResolveAssemblyReference.cache
+E:\Projects\Utilities\src\Sms\WhatAppSms\obj\Debug\WhatAppSms.Properties.Resources.resources
+E:\Projects\Utilities\src\Sms\WhatAppSms\obj\Debug\WhatAppSms.csproj.GenerateResource.Cache
